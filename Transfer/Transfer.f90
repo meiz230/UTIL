@@ -1,5 +1,4 @@
-test
-
-test2
-
-test3
+    open(11,file='gridext.inp')
+    
+    stop
+    end
